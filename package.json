@@ -1,0 +1,16 @@
+{
+  "name": "saga-test-plan-race",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.4.3",
+    "redux-saga": "^0.16.0",
+    "redux-saga-test-plan": "^3.6.0"
+  }
+}
